@@ -6,7 +6,7 @@ These are the files I generated to draw in the rf spectrum.
 
 ### What you need?
 
-[GNU Radio](https://www.gnuradio.org/) and [gr-apint](https://github.com/drmpeg/gr-paint).
+[GNU Radio](https://www.gnuradio.org/) and [gr-paint](https://github.com/drmpeg/gr-paint).
 
 ### How to use?
 
